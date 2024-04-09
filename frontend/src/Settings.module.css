@@ -1,0 +1,18 @@
+.main{
+    display: flex;
+    flex-direction: column;
+}
+.optionsitem{
+    width: 100%;
+}
+
+.optionsitem input{
+    width: 100%;
+    background-color: #363636;
+    border: none;
+    border-radius: 20px;
+    height: 40px;
+    font-size: 1rem;
+    color: white;
+    padding: 0 10px;
+}
